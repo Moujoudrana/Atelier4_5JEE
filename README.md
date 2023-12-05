@@ -52,9 +52,10 @@ Part 5 : https://www.youtube.com/watch?v=iMCjDRUXoeM
 -Order-service:
 -
     OpenFeign: OpenFeign est une bibliothèque de déclaration de client REST pour Java. Elle simplifie la création de clients REST en permettant aux développeurs de déclarer des interfaces Java annotées, ce qui est ensuite utilisé pour générer automatiquement des clients HTTP.
-SpringHATEAOS
 
-    Gateway:Spring HATEOAS simplifie la création de services web RESTful qui suivent les principes HATEOAS. HATEOAS consiste à inclure des liens hypertextes dans les réponses des services web pour permettre à l'application cliente de naviguer de manière dynamique à travers les ressources.
+    SpringHATEAOS: :Spring HATEOAS simplifie la création de services web RESTful qui suivent les principes HATEOAS. HATEOAS consiste à inclure des liens hypertextes dans les réponses des services web pour permettre à l'application cliente de naviguer de manière dynamique à travers les ressources.
+
+    Gateway
 
     SpringBootActuator
 
